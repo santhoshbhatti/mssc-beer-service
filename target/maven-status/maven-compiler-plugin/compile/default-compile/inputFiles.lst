@@ -1,5 +1,8 @@
 /home/santoshb/azure_notes/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/web/model/BeerStyleEnum.java
 /home/santoshb/azure_notes/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/web/model/BeerDto.java
 /home/santoshb/azure_notes/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/MsscBeerServiceApplication.java
+/home/santoshb/azure_notes/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/model/Beer.java
+/home/santoshb/azure_notes/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/bootstrap/BeerLoader.java
 /home/santoshb/azure_notes/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/web/model/web/controller/BeerController.java
+/home/santoshb/azure_notes/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/repositories/BeerRepository.java
 /home/santoshb/azure_notes/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/web/model/BeerPagedList.java
