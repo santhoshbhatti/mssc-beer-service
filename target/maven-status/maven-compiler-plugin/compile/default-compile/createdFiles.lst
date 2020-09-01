@@ -1,8 +1,11 @@
 guru/springframework/msscbeerservice/mapper/DateMapper.class
 guru/springframework/msscbeerservice/web/model/BeerStyleEnum.class
+guru/springframework/msscbeerservice/web/model/web/service/BeerServiceImpl.class
 guru/springframework/msscbeerservice/model/Beer.class
 guru/springframework/msscbeerservice/web/model/BeerDto.class
 guru/springframework/msscbeerservice/bootstrap/BeerLoader.class
+guru/springframework/msscbeerservice/web/model/web/controller/BeerService.class
+guru/springframework/msscbeerservice/web/model/web/controller/BeerPagedList.class
 guru/springframework/msscbeerservice/web/model/BeerDto$BeerDtoBuilder.class
 guru/springframework/msscbeerservice/repositories/BeerRepository.class
 guru/springframework/msscbeerservice/mapper/BeerMapper.class
